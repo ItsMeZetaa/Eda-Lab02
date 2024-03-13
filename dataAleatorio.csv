@@ -1,0 +1,13 @@
+valence,year,acousticness,artists,danceability,duration_ms,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo
+0.196,1930,0.97,['Al Bowlly'],0.337,179240,0.0723,0,7r8PfxqONYkGBIdLhPTk1g,0.000937,2,0.0866,-16.871,1,Night and Day,18,1930,0.0561,173.895
+0.576,1923,0.989,['Louis Armstrong'],0.585,174373,0.228,0,2SRy24tTjBERSmb3FHqzdb,8.55E-06,0,0.55,-11.651,1,On The Sunny Side Of The Street - Part 1,5,1923,0.0475,98.685
+0.409,1922,0.995,['Ignacio Corsini'],0.236,169853,0.124,0,213QIyv1KZIeGg7oXAMbah,0.981,1,0.149,-22.971,1,Mi Guitarra - Remasterizado,0,3/29/1922,0.0515,71.524
+0.963,1921,0.732,['Dennis Day'],0.819,180533,0.341,0,7xPhfUan2yNtyFG0cUWkt8,0,7,0.16,-12.441,1,Clancy Lowered the Boom,5,1921,0.415,60.936
+0.835,1924,0.994,['Adolphe Bérard'],0.462,195200,0.277,0,0cqYzfCNsc3ESTkEsE45Ns,3.57E-06,7,0.0991,-14.628,0,Les grains de beauté,0,1924,0.058,91.775
+0.672,1932,0.627,['Mari Merche Y Su Orquesta'],0.456,150802,0.662,0,1caF28L54kk2mAnn0zGNSe,0,7,0.793,-9.437,1,Media Hora - Remastered,0,1/12/1932,0.0426,81.672
+0.631,1931,0.989,['Francisco Canaro'],0.778,196000,0.0622,0,0pMmTd8cnsLXlHWpcA3ALa,0.00125,8,0.778,-19.529,1,Sabado Inglés - Instrumental (Remasterizado),0,12/12/1931,0.261,124.627
+0.799,1929,0.924,['Francisco Canaro'],0.813,199080,0.335,0,1I4qI4PW47Bcv3U98hLd1q,0.00915,9,0.0821,-10.275,0,Amorcito - Instrumental (Remasterizado),0,10/17/1929,0.112,118.236
+0.73,1927,0.0429,['Numba 9'],0.824,191112,0.363,1,0UU8y5xicqUQvaJSppEyOx,9.89E-05,7,0.37,-8.937,1,Smooth as Sade,0,1927,0.35,165.001
+0.782,1926,0.885,['Fats Waller'],0.715,194880,0.296,0,0Eb41TbSJMswzv1ZBlkwOt,0.0159,0,0.0552,-15.082,1,"Patty Cake, Patty Cake",19,1926,0.0715,102.969
+0.889,1925,0.937,['Harold Lem & His Orchestra'],0.848,195093,0.35,0,5n2a00lvFmgllxaBkEpYlr,0.117,10,0.0616,-9.963,1,I Got Rhythm,5,1925,0.0583,114.518
+0.324,1928,0.956,"['Barbara Cook', 'John Raitt']",0.241,153573,0.31,0,2RLMbCO3AUayYaryYPUfvr,0.000165,8,0.31,-11.425,1,Why Do I Love You?,3,1928,0.035,111.418
